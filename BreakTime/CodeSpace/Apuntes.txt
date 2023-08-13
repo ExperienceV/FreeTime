@@ -1,0 +1,6 @@
+Diseño de calculadora con interfaz gráfica de operaciones básicas
+incluso si es posible, de operaciones avanzadas.
+
+Paso #1:
+Implementar las operaciones básicas
+
